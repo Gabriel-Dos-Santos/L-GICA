@@ -23,6 +23,9 @@ Inicio
          LEIA(C)
          F <- 9 * C / 5 + 32
          ESCREVAL("Temperatura equivalente em Fahrenheit: ", F:4:2)
+         
+         
+         
 
       FIMSE
 
